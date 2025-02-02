@@ -15,14 +15,12 @@ body {
     color: var(--text);
 }
 
-/* Layout container */
 .container {
     max-width: 680px;
     margin: 0 auto;
     padding: 80px 40px;
 }
 
-/* Header styles */
 header {
     margin-bottom: 120px;
 }
@@ -47,7 +45,6 @@ h1 {
     font-size: 14px;
 }
 
-/* Section styles */
 section {
     margin: 100px 0;
     position: relative;
