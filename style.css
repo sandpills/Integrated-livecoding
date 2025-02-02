@@ -168,6 +168,8 @@ p {
 /* style for schedule page */
 
 .back-link {
+    position: fixed;
+    left: 5vw;
     margin-bottom: 40px;
 }
 
