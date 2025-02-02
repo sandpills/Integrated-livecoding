@@ -3,12 +3,17 @@
     --bg: #ffffff;
     --text: #000000;
     --highlight: #ffff00;
+    --kao-sparkle: "⊹₊˚✧";
+    --kao-heart: "♡";
+    --kao-star: "★";
+    --kao-dots: "⊹⊹⊹";
+    --kao-brackets: "୨୧";
 }
 
 /* Base styles */
 body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.5;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
     background: var(--bg);
@@ -16,13 +21,13 @@ body {
 }
 
 .container {
-    max-width: 680px;
+    max-width: 800px;
     margin: 0 auto;
-    padding: 80px 40px;
+    padding: 80px 20px;
 }
 
 header {
-    margin-bottom: 120px;
+    margin-bottom: 10px;
 }
 
 h1 {
@@ -34,25 +39,25 @@ h1 {
 }
 
 .course-info {
-    margin: 24px 0 60px 0;
+    margin: 24px 0 40px 0;
     color: #666;
-    font-size: 14px;
+    font-size: 15px;
     letter-spacing: 0.02em;
 }
 
 .instructor-info {
-    margin-left: 40px;
-    font-size: 14px;
+    /* margin-left: 10px; */
+    font-size: 18px;
 }
 
 section {
-    margin: 100px 0;
+    margin: 40px 0;
     position: relative;
 }
 
-.offset-section {
+/* .offset-section {
     margin-left: 40px;
-}
+} */
 
 /* Link styles */
 a {
@@ -68,7 +73,7 @@ a:hover {
 
 /* Typography */
 h2 {
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.05em;
@@ -77,48 +82,54 @@ h2 {
 
 ul {
     list-style: none;
+    font-size: 18px;
     padding: 0;
     margin: 0;
 }
 
 li {
-    margin: 12px 0;
+    margin: 2px 0;
 }
 
 /* Tools grid */
 .tools-list {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 40px;
-    margin-left: -40px;
+    gap: 30px;
+    /* margin-left: -40px; */
 }
 
 .tool-item h3 {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: normal;
     margin: 0 0 8px 0;
 }
 
 .tool-item p {
-    font-size: 14px;
+    font-size: 15px;
     color: #666;
     margin: 0;
     max-width: 260px;
 }
 
-/* Full-width sections */
-.wide-section {
+/* .wide-section {
     margin-left: -40px;
     margin-right: -40px;
-}
+} */
 
-.reading-section {
+/* .reading-section {
     background: #f8f8f8;
     padding: 40px;
-}
+} */
 
 /* About text */
 .about-text {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 560px;
+}
+
+p {
     font-size: 18px;
     line-height: 1.6;
     max-width: 560px;
@@ -147,4 +158,65 @@ li {
     .instructor-info {
         margin-left: 0;
     }
+
+    .about-text::before {
+        display: none;
+    }
 }
+
+
+
+/* Decorative elements */
+h1::before {
+    content: "⊹ ⋆𐙚₊ 💻 ˚⊹ ⋆˚ 🎧 ⟡˖ ";
+    display: block;
+    margin-bottom: 20px;
+    font-size: 24px;
+    letter-spacing: 0.1em;
+}
+
+/* .about-text::before {
+    content: "｡･:* ･ﾟ★";
+    position: absolute;
+    left: -30px;
+    color: #999;
+} */
+
+/* .tools-list::before {
+    content: "⊹₊˚✧";
+    display: block;
+    margin-bottom: 20px;
+    color: #999;
+} */
+
+/* .reading-section::before {
+    content: "୨୧";
+    display: block;
+    margin-bottom: 10px;
+    letter-spacing: 0.2em;
+} */
+
+/* Add sparkles to links on hover */
+a:hover::after {
+    content: "˚✧";
+    display: inline-block;
+    margin-left: 4px;
+}
+
+/* Section decorations */
+/* section:not(:last-child)::after {
+    content: "⊹⊹⊹";
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+    color: #ddd;
+    letter-spacing: 0.5em;
+} */
+
+/* Header decoration */
+/* .course-info::after {
+    content: "♡⋆｡°✧";
+    display: block;
+    margin-top: 10px;
+    color: #999;
+} */
