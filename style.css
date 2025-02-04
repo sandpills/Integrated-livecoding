@@ -126,13 +126,13 @@ li {
 .about-text {
     font-size: 18px;
     line-height: 1.6;
-    max-width: 560px;
+    max-width: 580px;
 }
 
 p {
     font-size: 18px;
     line-height: 1.6;
-    max-width: 560px;
+    max-width: 580px;
 }
 
 /* Responsive adjustments */
@@ -200,6 +200,7 @@ p {
 
 .class {
     margin-bottom: 40px;
+    max-width: 580px;
 }
 
 .class h3 {
