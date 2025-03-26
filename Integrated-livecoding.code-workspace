@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tic-tac-toe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Integrated-livecoding"
+	}
+}
