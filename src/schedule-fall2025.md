@@ -16,6 +16,13 @@ header:
 
 Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assignments by noon on Monday, before the next session. Submit your assignments via the [homework submission form] >u<
 
+## Important Dates & Holidays
+
+**Monday, September 29 - Monday, October 6** - National Day Holiday/ Mid-Autumn Festival: Fall Break  
+**Sunday, October 12** - Legislative Day (classes follow Monday schedule)  
+**Thursday, November 27 - Friday, November 28** - Thanksgiving Holiday (No classes scheduled)  
+**Friday, December 12** - Semester ends (Last day of classes is Monday, December 8)
+
 ## Table of Contents
 - [Week 1: Intro to magic](#week-1-intro-to-magic)
 - [Week 2: Making music with code](#week-2-making-music-with-code)
@@ -35,7 +42,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 1: Intro to magic
 
-**Monday · September 1 · 5:15-8:00pm**
+**Monday · September 1**
 
 - Introduction to Syllabus
 - History and ethos of the global live coding scenes: What can we learn from a creative tech culture that's 20 years old?
@@ -49,7 +56,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 2: Making music with code
 
-**Monday · September 8 · 5:15-8:00pm**
+**Monday · September 8**
 
 - Sketch #1 share-outs
 - Workshop: Dive deeper into Strudel - rhythms, melodies, composition
@@ -63,7 +70,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 3: Making visuals with code
 
-**Monday · September 15 · 5:15-8:00pm**
+**Monday · September 15**
 
 - Sketch #2 share-outs
 - Workshop: Introduction to [Hydra](https://hydra.ojack.xyz/), live coding video synthesis
@@ -76,7 +83,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 4: Collaboration & Networks
 
-**Monday · September 22 · 5:15-8:00pm**
+**Monday · September 22**
 
 - Sketch #3 share-outs
 - Workshop: Collaborative live coding with [Flok](https://flok.cc/)
@@ -90,7 +97,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 5: Performance & Improvisation
 
-**Monday · September 29 · 5:15-8:00pm**
+**Monday · October 13**
 
 - Sketch #4 share-outs
 - Workshop: Performance techniques and improvisation
@@ -104,7 +111,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 6: Midterm Preparation
 
-**Monday · October 6 · 5:15-8:00pm**
+**Monday · October 20**
 
 - Sketch #5 share-outs
 - Midterm project planning and development
@@ -118,7 +125,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 7: Midterm Performances
 
-**Monday · October 13 · 5:15-8:00pm**
+**Monday · October 27**
 
 - Midterm performances and feedback
 - Midterm reflection and discussion
@@ -130,7 +137,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 8: Advanced Techniques
 
-**Monday · October 20 · 5:15-8:00pm**
+**Monday · November 3**
 
 - Sketch #6 share-outs
 - Advanced Strudel and Hydra techniques
@@ -144,7 +151,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 9: Final Project Development
 
-**Monday · October 27 · 5:15-8:00pm**
+**Monday · November 10**
 
 - Sketch #7 share-outs
 - Final project concept development
@@ -158,7 +165,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 10: Final Project Development
 
-**Monday · November 3 · 5:15-8:00pm**
+**Monday · November 17**
 
 - Final project development and feedback
 - Technical workshop and troubleshooting
@@ -172,7 +179,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 11: Expanded Interface++
 
-**Monday · November 10 · 5:15-8:00pm**
+**Monday · November 24**
 
 - Sketch #7 share-outs
 - Workshop: Expanded Interfaces - custom hardware, spatial audio, multichannel videos
@@ -186,7 +193,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 12
 
-**Monday · November 17 · 5:15-8:00pm**
+**Monday · December 1**
 
 - Final performance pitch presentations
 - Guest Artist (tbd)
@@ -196,14 +203,14 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 13
 
-**Monday · November 24 · 5:15-8:00pm**
+**Monday · December 8**
 
 - Final performance demo & feedback
 - Technical workshop & rehearsal
 
 ## Week 14
 
-**Monday · December 1 · 5:15-8:00pm**
+**Monday · December 15**
 
 - Technical workshop & rehearsal
 - Final performance preparation
@@ -211,5 +218,3 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 ## Final Performance
 
 **Date TBD**
-
-- Final Performance at EXIT

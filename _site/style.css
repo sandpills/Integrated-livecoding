@@ -21,7 +21,7 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     padding: 80px 20px;
 }
@@ -126,13 +126,13 @@ li {
 .about-text {
     font-size: 18px;
     line-height: 1.6;
-    max-width: 580px;
+    max-width: 680px;
 }
 
 p {
     font-size: 18px;
     line-height: 1.6;
-    max-width: 580px;
+    max-width: 680px;
 }
 
 /* Responsive adjustments */
@@ -202,7 +202,7 @@ p {
 .class {
     /* margin-bottom: 40px; */
     margin-bottom: 25px;
-    max-width: 580px;
+    max-width: 680px;
 }
 
 .class h3 {
@@ -354,14 +354,14 @@ a:hover::after {
 
 .markdown-content p {
     /* margin-bottom: 1em; */
-    max-width: 580px;
+    max-width: 680px;
 }
 
 .markdown-content ul,
 .markdown-content ol {
     /* margin-bottom: 1em; */
     /* padding-left: 1.5em; */
-    max-width: 580px;
+    max-width: 680px;
     padding-left: 0;
 }
 
@@ -380,7 +380,25 @@ a:hover::after {
     top: 0;
 }
 
-.markdown-content blockquote {
+/* Style assignments sections - simpler approach */
+.markdown-content p strong {
+    font-weight: 600;
+}
+
+/* Add spacing and styling for assignment sections */
+.markdown-content p+ul {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+/* Add left border to lists that follow paragraphs (assignments) */
+/* .markdown-content p+ul {
+    /* margin-left: 20px; */
+/* padding-left: 20px; */
+border-left: 2px dotted #a1a1a1;
+}
+
+*/ .markdown-content blockquote {
     margin: 1em 0;
     padding: 0 1em;
     color: #6a737d;
