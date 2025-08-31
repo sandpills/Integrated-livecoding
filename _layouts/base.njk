@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>{{ header.title | safe }}</h1>
+            <div class="course-info">
+                {{ header.courseInfo }}
+            </div>
+            <div class="instructor-info">
+                {{ header.instructorInfo | safe }}
+            </div>
+        </header>
+
+        <div class="markdown-content">
+            {{ content | safe }}
+        </div>
+    </div>
+</body>
+</html>

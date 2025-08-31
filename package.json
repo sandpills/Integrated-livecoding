@@ -1,0 +1,28 @@
+{
+  "name": "integrated-livecoding",
+  "version": "1.0.0",
+  "description": "class portal for integrated approaches to livecoding",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "dev": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandpills/Integrated-livecoding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandpills/Integrated-livecoding/issues"
+  },
+  "homepage": "https://github.com/sandpills/Integrated-livecoding#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-toc-done-right": "^4.2.0"
+  }
+}

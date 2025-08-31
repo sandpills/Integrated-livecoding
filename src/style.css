@@ -1,0 +1,462 @@
+/* Root variables for consistent theming */
+:root {
+    --bg: #ffffff;
+    --text: #000000;
+    --highlight: #ffff00;
+    --kao-sparkle: "⊹₊˚✧";
+    --kao-heart: "♡";
+    --kao-star: "★";
+    --kao-dots: "⊹⊹⊹";
+    --kao-brackets: "୨୧";
+}
+
+/* Base styles */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--text);
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 80px 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 500;
+    margin: 0;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+}
+
+.course-info {
+    margin: 10px 0 20px 0;
+    color: #666;
+    font-size: 15px;
+    letter-spacing: 0.02em;
+}
+
+.instructor-info {
+    /* margin-left: 10px; */
+    font-size: 18px;
+}
+
+section {
+    margin: 40px 0;
+    position: relative;
+}
+
+/* .offset-section {
+    margin-left: 40px;
+} */
+
+/* Link styles */
+a {
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+}
+
+a:hover {
+    background: var(--highlight);
+    border-bottom: none;
+}
+
+/* Typography */
+h2 {
+    font-size: 15px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0 0 30px 0;
+}
+
+ul {
+    list-style: none;
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin: 2px 0;
+}
+
+/* Tools grid */
+.tools-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    /* margin-left: -40px; */
+}
+
+.tool-item h3 {
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0 0 8px 0;
+}
+
+.tool-item p {
+    font-size: 15px;
+    color: #666;
+    margin: 0;
+    max-width: 260px;
+}
+
+/* .wide-section {
+    margin-left: -40px;
+    margin-right: -40px;
+} */
+
+/* .reading-section {
+    background: #f8f8f8;
+    padding: 40px;
+} */
+
+/* About text */
+.about-text {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 580px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 580px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    .container {
+        padding: 40px 20px;
+    }
+
+    .tools-list {
+        grid-template-columns: 1fr;
+        margin-left: 0;
+    }
+
+    .offset-section {
+        margin-left: 0;
+    }
+
+    /* .wide-section {
+        margin-left: -20px;
+        margin-right: -20px;
+    } */
+
+    .instructor-info {
+        margin-left: 0;
+    }
+
+    .about-text::before {
+        display: none;
+    }
+}
+
+
+/* style for schedule page */
+
+.back-link {
+    position: fixed;
+    left: 5vw;
+    top: 2rem;
+    margin-bottom: 40px;
+}
+
+.back-link a {
+    font-size: 15px;
+}
+
+
+/* Schedule-specific styles */
+.schedule {
+    margin-top: 40px;
+}
+
+.week {
+    margin-bottom: 50px;
+}
+
+.week h2 {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    letter-spacing: -0.02em;
+}
+
+.classes {
+    margin-left: 20px;
+}
+
+.class {
+    /* margin-bottom: 40px; */
+    margin-bottom: 25px;
+    max-width: 580px;
+}
+
+.class h3 {
+    font-size: 18px;
+    font-weight: normal;
+    margin: 0 0 10px 0;
+}
+
+.class ul {
+    margin: 0 0 15px 0;
+    padding: 0;
+    list-style: none;
+}
+
+.class li {
+    font-size: 16px;
+    margin: 4px 0;
+    color: #444;
+}
+
+/* Assignment sections */
+.assignments {
+    margin-top: 20px;
+    padding-left: 20px;
+    border-left: 1px solid #ddd;
+}
+
+.assignments h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 0 0 10px 0;
+    color: #666;
+}
+
+.assignments p {
+    font-size: 15px;
+    margin: 10px 0;
+    line-height: 1.4;
+}
+
+
+/* Media queries for responsive design */
+@media (max-width: 600px) {
+    .classes {
+        margin-left: 0;
+    }
+
+    .reading,
+    .assignment {
+        margin-top: 15px;
+        padding-left: 15px;
+    }
+
+    .week h2 {
+        font-size: 20px;
+    }
+}
+
+
+
+/* Decorative elements */
+h1::before {
+    content: "⊹ ⋆𐙚₊ 💻 ˚⊹ ⋆˚ 🎧 ⟡˖ ";
+    display: block;
+    margin-bottom: 20px;
+    font-size: 24px;
+    letter-spacing: 0.1em;
+}
+
+/* .about-text::before {
+    content: "｡･:* ･ﾟ★";
+    position: absolute;
+    left: -30px;
+    color: #999;
+} */
+
+/* .tools-list::before {
+    content: "⊹₊˚✧";
+    display: block;
+    margin-bottom: 20px;
+    color: #999;
+} */
+
+/* .reading-section::before {
+    content: "୨୧";
+    display: block;
+    margin-bottom: 10px;
+    letter-spacing: 0.2em;
+} */
+
+/* Add sparkles to links on hover */
+a:hover::after {
+    content: "✧";
+    display: inline-block;
+    margin-left: 4px;
+}
+
+/* Section decorations */
+/* section:not(:last-child)::after {
+    content: "⊹⊹⊹";
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+    color: #ddd;
+    letter-spacing: 0.5em;
+} */
+
+/* Header decoration */
+/* .course-info::after {
+    content: "♡⋆｡°✧";
+    display: block;
+    margin-top: 10px;
+    color: #999;
+} */
+
+/* Enhanced Markdown Styles */
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4,
+.markdown-content h5,
+.markdown-content h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.markdown-content h1 {
+    font-size: 1.5em;
+    border-bottom: 2px dotted #eaecef;
+    padding-bottom: 0.2em;
+}
+
+.markdown-content h2 {
+    font-size: 1.25em;
+    border-bottom: 3px dotted #eaecef;
+    padding-bottom: 0.2em;
+}
+
+.markdown-content h3 {
+    font-size: 1.1em;
+}
+
+.markdown-content h4 {
+    font-size: 1em;
+}
+
+.markdown-content p {
+    /* margin-bottom: 1em; */
+    max-width: 580px;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+    /* margin-bottom: 1em; */
+    /* padding-left: 1.5em; */
+    max-width: 580px;
+    padding-left: 0;
+}
+
+.markdown-content li {
+    /* margin-bottom: 0.5em; */
+    position: relative;
+    padding-left: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+.markdown-content li::before {
+    content: "+";
+    color: #e0e0e0;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.markdown-content blockquote {
+    margin: 1em 0;
+    padding: 0 1em;
+    color: #6a737d;
+    border-left: 0.25em solid #dfe2e5;
+}
+
+.markdown-content code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    background-color: rgba(27, 31, 35, 0.05);
+    border-radius: 3px;
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.markdown-content pre {
+    padding: 16px;
+    overflow: auto;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 3px;
+    margin-bottom: 1em;
+}
+
+.markdown-content pre code {
+    background-color: transparent;
+    padding: 0;
+}
+
+/* Anchor links */
+.markdown-content .header-anchor {
+    color: #c1c1c1;
+    text-decoration: none;
+    font-weight: normal;
+    margin-right: 0.5em;
+}
+
+.markdown-content .header-anchor:hover {
+    color: #0366d6;
+}
+
+/* Table of Contents */
+.toc {
+    background: #f8f9fa;
+    border: 1px solid #e1e4e8;
+    border-radius: 6px;
+    padding: 1em;
+    margin: 1em 0;
+    max-width: 100%;
+    overflow-x: auto;
+}
+
+.toc ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.toc li {
+    margin: 0.25em 0;
+}
+
+.toc a {
+    text-decoration: none;
+    color: #0366d6;
+    border-bottom: none;
+}
+
+.toc a:hover {
+    background: none;
+    text-decoration: underline;
+}
+
+/* Responsive table of contents */
+@media (max-width: 600px) {
+    .toc {
+        font-size: 14px;
+    }
+}
