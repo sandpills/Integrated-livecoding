@@ -13,8 +13,8 @@ header:
 ## Important Links
 
 - [Syllabus](https://docs.google.com/document/d/1as0mChvEE1aiIQ25Vb9vJCI3FbdFj16FWGIggYYNbsg/edit?tab=t.0)
-- [[WIP] Collab Notebook](https://pad.riseup.net/p/integrated-livecoding-keep)
-- [Homework Submission Form](https://forms.gle/RaqU9RQ5q7Radp736)
+- [[WIP] Collab Notebook](https://pad.riseup.net/p/ihttps://pad.riseup.net/p/ialc-f25-keep)
+- [Homework Submission Form](https://forms.gle/PLn54uDV8ZCU9uCB8)
 - [Peer Tutorials](/Integrated-livecoding/tutorials)
 
 ## About
