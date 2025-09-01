@@ -46,6 +46,14 @@ jobs:
       uses: actions/upload-pages-artifact@v3
       with:
         path: '.'
+        exclude: |
+          node_modules/
+          src/
+          .github/
+          .gitignore
+          README.md
+          package*.json
+          .eleventy.js
         
     - name: Deploy to GitHub Pages
       id: deployment
