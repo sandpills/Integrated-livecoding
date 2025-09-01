@@ -389,16 +389,12 @@ a:hover::after {
 .markdown-content p+ul {
     margin-top: 1em;
     margin-bottom: 2em;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 2px dotted #a1a1a1;
 }
 
-/* Add left border to lists that follow paragraphs (assignments) */
-/* .markdown-content p+ul {
-    /* margin-left: 20px; */
-/* padding-left: 20px; */
-border-left: 2px dotted #a1a1a1;
-}
-
-*/ .markdown-content blockquote {
+.markdown-content blockquote {
     margin: 1em 0;
     padding: 0 1em;
     color: #6a737d;

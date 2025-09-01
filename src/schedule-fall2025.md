@@ -10,18 +10,11 @@ header:
     Office Hours: By <a href="https://calendar.app.google/ZLZrUoP3d68cVgNh8" target="_blank">appointment</a><br>
 ---
 
-<div class="back-link"><a href="/">← Back to main</a></div>
+<!-- <div class="back-link"><a href="/">← Back to main</a></div> -->
 
-<!-- [← Back to main](/) -->
+[← Back to main](/)
 
-Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assignments by noon on Monday, before the next session. Submit your assignments via the [homework submission form] >u<
-
-## Important Dates & Holidays
-
-**Monday, September 29 - Monday, October 6** - National Day Holiday/ Mid-Autumn Festival: Fall Break  
-**Sunday, October 12** - Legislative Day (classes follow Monday schedule)  
-**Thursday, November 27 - Friday, November 28** - Thanksgiving Holiday (No classes scheduled)  
-**Friday, December 12** - Semester ends (Last day of classes is Monday, December 8)
+Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assignments by noon on Monday, before the next session. Submit your assignments via the [homework submission form](https://forms.gle/D94BmyRiV8AVApgX8) >u<
 
 ## Table of Contents
 - [Week 1: Intro to magic](#week-1-intro-to-magic)
@@ -50,7 +43,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - [Slides](https://docs.google.com/presentation/d/1WbW5RQZwlKkgiX6Th7ycT6hQ2fff5ok3fh9epau_cW0/edit?usp=sharing)
 
 **Assigned:**
-- Submit a link to your blog. You can use your personal blog if you already have one, or create a new one to document work if you wish. Make sure to create a category or tag for IALC, and assign it to all posts for this class. See [Documentation Guideline](/project-documentation) for detailed instruction
+- Make a blog and post its link to our course slack channel. You can also use your personal blog if you already have one. See [Documentation Guideline](/project-documentation) for detailed instruction.
 - Reading #1: Collins, Nick; McLean, Alex; Rohrhuber, Julian & Ward, Adrian. (2022). "Live coding: A User's Manual." MIT Press. [Chapter 1: Introduction to Live Coding](https://doi.org/10.7551/mitpress/13770.003.0005) (page 1-8, until "Navigating the Book")
 - Sketch #1: First experiments with Strudel
 
