@@ -13,20 +13,20 @@ header:
 ## Important Links
 
 - [Syllabus](https://docs.google.com/document/d/1as0mChvEE1aiIQ25Vb9vJCI3FbdFj16FWGIggYYNbsg/edit?tab=t.0)
-- [[WIP] Collab Notebook](https://pad.riseup.net/p/ihttps://pad.riseup.net/p/ialc-f25-keep)
+- [[WIP] Collab Notebook](https://pad.riseup.net/p/ialc-f25-keep)
 - [Homework Submission Form](https://forms.gle/PLn54uDV8ZCU9uCB8)
-- [Peer Tutorials](/Integrated-livecoding/tutorials)
+- [Peer Tutorials]({{ site.path('/tutorials') }})
 
 ## About
 
 This course introduces students to the practice of live coding, learning techniques for real-time algorithmic approaches to making music and visuals, while exploring its cultural, theoretical, and performative potentials. Students will learn various audiovisual tools and environments, develop skills in both audio and visual programming, and explore speculative live coding practices across interdisciplinary disciplines and mediums.
 
-There will be two performances: a [midterm project](/Integrated-livecoding/midterm) focused on collaborative live coding, and a [final project] exploring expanded approaches to audiovisual performances.
+There will be two performances: a [midterm project]({{ site.path('/midterm') }}) focused on collaborative live coding, and a [final project] exploring expanded approaches to audiovisual performances.
 
 ## Schedule
 
 Monday 5:15-8:00pm
-See [class schedule](/Integrated-livecoding/schedule-fall2025) for weekly content, assignment, and due dates.
+See [class schedule]({{ site.path('/schedule-fall2025') }}) for weekly content, assignment, and due dates.
 
 ## Tools
 
@@ -50,4 +50,4 @@ See [class schedule](/Integrated-livecoding/schedule-fall2025) for weekly conten
 All readings are collected in our class Are.na channel, updated weekly
 
 - [Course Readings](https://www.are.na/viola-he/integrated-approaches-to-live-coding)
-- [Tutorials!](/Integrated-livecoding/tutorials)
+- [Tutorials!]({{ site.path('/tutorials') }})

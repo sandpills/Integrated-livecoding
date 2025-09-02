@@ -6,6 +6,20 @@ module.exports = function (eleventyConfig) {
     // Copy CSS and other assets
     eleventyConfig.addPassthroughCopy("src/style.css");
 
+    // Add global helper functions for path management
+    eleventyConfig.addGlobalData("pathHelper", {
+        url: function (path) {
+            const baseUrl = process.env.NODE_ENV === 'production' ? '/Integrated-livecoding' : '';
+            const cleanPath = path.startsWith('/') ? path : '/' + path;
+            return baseUrl + cleanPath;
+        },
+        asset: function (path) {
+            const baseUrl = process.env.NODE_ENV === 'production' ? '/Integrated-livecoding' : '';
+            const cleanPath = path.startsWith('/') ? path : '/' + path;
+            return baseUrl + cleanPath;
+        }
+    });
+
     // Configure Markdown rendering
     const markdownLibrary = markdownIt({
         html: true,
@@ -35,6 +49,9 @@ module.exports = function (eleventyConfig) {
             output: ".",
             includes: "../_includes",
             layouts: "../_layouts"
-        }
+        },
+        markdownTemplateEngine: "njk",
+        dataTemplateEngine: "njk",
+        htmlTemplateEngine: "njk"
     };
 };

@@ -4,8 +4,10 @@
   "description": "class portal for integrated approaches to livecoding",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy",
-    "dev": "eleventy --serve",
+    "build": "NODE_ENV=production eleventy",
+    "build:github": "NODE_ENV=production eleventy",
+    "dev": "NODE_ENV=development eleventy --serve",
+    "serve": "NODE_ENV=development eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

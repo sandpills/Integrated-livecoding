@@ -12,7 +12,7 @@ header:
 
 <!-- <div class="back-link"><a href="/">← Back to main</a></div> -->
 
-[← Back to main](/Integrated-livecoding/)
+[← Back to main]({{ site.path('/') }})
 
 Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assignments by noon on Monday, before the next session. Submit your assignments via the [homework submission form](https://forms.gle/D94BmyRiV8AVApgX8) >u<
 
@@ -43,7 +43,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - [Slides](https://docs.google.com/presentation/d/1Oeey1f4AFzxYzQq4Gb8c_RjatlJOuE3aYivRgA-KJds/edit?usp=sharing)
 
 **Assigned:**
-- Make a blog and post its link to our course slack channel. You can also use your personal blog if you already have one. See [Documentation Guideline](/Integrated-livecoding/project-documentation) for detailed instruction.
+- Make a blog and post its link to our course slack channel. You can also use your personal blog if you already have one. See [Documentation Guideline]({{ site.path('/project-documentation') }}) for detailed instruction.
 - Reading #1: Collins, Nick; McLean, Alex; Rohrhuber, Julian & Ward, Adrian. (2022). "Live coding: A User's Manual." MIT Press. [Chapter 1: Introduction to Live Coding](https://doi.org/10.7551/mitpress/13770.003.0005) (page 1-8, until "Navigating the Book")
 - Sketch #1: First experiments with Strudel
 
@@ -181,7 +181,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 **Assigned:**
 - Reading #10: Collins, Nick; McLean, Alex; Rohrhuber, Julian & Ward, Adrian. (2022). "Live coding: A User's Manual." MIT Press. [Chapter 8: What Does Live Coding Want?](https://www.are.na/block/36017259)
-- [Final Project](/Integrated-livecoding/final): Begin work on expanded performance
+- [Final Project]({{ site.path('/final') }}): Begin work on expanded performance
 
 ## Week 12
 
@@ -191,7 +191,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Guest Artist (tbd)
 
 **Assigned:**
-- [Final Project](/Integrated-livecoding/final): Continue development based on feedback
+- [Final Project]({{ site.path('/final') }}): Continue development based on feedback
 
 ## Week 13
 

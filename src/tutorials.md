@@ -10,7 +10,7 @@ header:
     Office Hours: By <a href="https://calendar.app.google/ZLZrUoP3d68cVgNh8" target="_blank">appointment</a><br>
 ---
 
-[← Back to main](/)
+[← Back to main]({{ site.path('/') }})
 
 ## Sonic Pi
 - [Sonic Pi Tutorial by kiri](https://cat-rest-d13.notion.site/Sonic-Pi-1d0aa442988a80f081f7f651b5dc0f8e)
