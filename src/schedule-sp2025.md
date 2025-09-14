@@ -58,7 +58,6 @@ In general, each week we'll have a workshop class on Monday, and a discussion cl
 
 ### Wednesday · February 19
 - Reading #2 Discussion
-- Visual music and synesthesia
 - History of video synthesis and computer graphics
 - [Slides](https://docs.google.com/presentation/d/1MiGRXpkuxVK99NDsKBs2BiJQkq23yHSNRjLYUV4ErJk/edit?usp=sharing)
 

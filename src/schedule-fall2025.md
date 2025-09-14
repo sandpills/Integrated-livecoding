@@ -40,7 +40,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Introduction to Syllabus
 - History and ethos of the global live coding scenes: What can we learn from a creative tech culture that's 20 years old?
 - Workshop: Introduction to [Strudel](https://strudel.cc), a web-based music programming language – syntax and patterns
-- [Slides](https://docs.google.com/presentation/d/1Oeey1f4AFzxYzQq4Gb8c_RjatlJOuE3aYivRgA-KJds/edit?usp=sharing)
+- ⊹ [Slides](https://docs.google.com/presentation/d/1Oeey1f4AFzxYzQq4Gb8c_RjatlJOuE3aYivRgA-KJds/edit?usp=sharing)
 
 **Assigned:**
 - Make a blog and post its link to our course slack channel. You can also use your personal blog if you already have one. See [Documentation Guideline]({{ site.path('/project-documentation') }}) for detailed instruction.
@@ -55,25 +55,40 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Workshop: Dive deeper into Strudel - rhythms, melodies, composition
 - Reading #1 Discussion
 - Lecture: A brief history of algorithmic composition in electronic music
+- ⊹ [Slides](https://docs.google.com/presentation/d/1ApWletWJaV1516o-Kj4mv7zzI3QuLSTuD4wGq0I3sac/edit?usp=sharing)
 
 **Assigned:**
 - Reading #2: Cascone, Kim. (2000). ["The Aesthetics of Failure: Post-Digital Tendencies in Contemporary Computer Music."](https://ccrma.stanford.edu/~adnanm/DAT330/CMJ24_4Cascone.pdf) Computer Music Journal, 24(4)
 - Sketch #2: Rhythmic patterns in Strudel
 
-## Week 3: Making visuals with code
+## Week 3: Glitches, Noises, Errors
 
 **Monday · September 15**
 
-- Sketch #2 share-outs
-- Workshop: Introduction to [Hydra](https://hydra.ojack.xyz/), live coding video synthesis
 - Reading #2 Discussion
-- Lecture: History of video synthesis and computer graphics
+- Lecture: What's in a glitch
+- Sketch #2 share-outs
+- Workshop: Introduction to [Hydra](https://hydra.ojack.xyz/) video synth
+- ⊹ [Slides](https://docs.google.com/presentation/d/1XZ__pM_exP9MSyiOnCvFAPB0DkT4eo8BsqU1OaCEQgA/edit?usp=sharing)
 
 **Assigned:**
-- Reading #3: ["The Aesthetics of Failure: Post-Digital Tendencies in Contemporary Computer Music"](https://www.are.na/block/36017259)
-- Sketch #3: Audio-visual composition in Strudel + Hydra
+- Reading #3: Casey Reas on the History of Generative Art [Part I](https://www.lerandom.art/editorial/reas-history-1) & [Part II](https://www.lerandom.art/editorial/casey-reas-on-the-history-of-generative-art-part-2). Le Random.
+- Sketch #3:  First Experiment with Hydra
 
-## Week 4: Collaboration & Networks
+## Week 4: Audio + Visual = ???
+
+- Reading #2 Discussion
+- Lecture: From Subcultures to Club Cultures
+- Very brief history of Audiovisuals
+- Sketch #2 share-outs
+- Just enough music theory
+- Workshop: Hydra in Strudel!
+
+**Assigned:**
+- Reading #4: Schedel, M., & Uroskie, A. V. (2011). "Writing about Audiovisual Culture." Cinema Journal, 50(2), 144-150.
+- Sketch #4: shared patterns in sound and visuals
+
+## Week 5: Collaboration & Networks
 
 **Monday · September 22**
 
@@ -86,20 +101,6 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 **Assigned:**
 - Reading #4: ["Collaborative Live Coding"](https://www.are.na/block/36017259)
 - Sketch #4: Collaborative performance piece
-
-## Week 5: Performance & Improvisation
-
-**Monday · October 13**
-
-- Sketch #4 share-outs
-- Workshop: Performance techniques and improvisation
-- Building performance sets
-- Reading #4 Discussion
-- Performance art and live coding
-
-**Assigned:**
-- Reading #5: ["Performance and Improvisation"](https://www.are.na/block/36017259)
-- Sketch #5: Performance piece development
 
 ## Week 6: Midterm Preparation
 
