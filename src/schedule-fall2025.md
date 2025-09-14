@@ -19,16 +19,17 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 ## Table of Contents
 - [Week 1: Intro to magic](#week-1-intro-to-magic)
 - [Week 2: Making music with code](#week-2-making-music-with-code)
-- [Week 3: Making visuals with code](#week-3-making-visuals-with-code)
-- [Week 4: Collaboration & Networks](#week-4-collaboration--networks)
-- [Week 5: Performance & Improvisation](#week-5-performance--improvisation)
+- [Week 3: Glitches, Noises, Errors](#week-3-glitches-noises-errors)
+- [Week 4: Audio + Visual = ???](#week-4-audio--visual--)
+- [Fall Break](#fall-break---no-class)
+- [Week 5: Networked and Collaborative Livecoding](#week-5-networked-and-collaborative-livecoding)
 - [Week 6: Midterm Preparation](#week-6-midterm-preparation)
 - [Week 7: Midterm Performances](#week-7-midterm-performances)
-- [Week 8: Advanced Techniques](#week-8-advanced-techniques)
-- [Week 9: Final Project Development](#week-9-final-project-development)
-- [Week 10: Final Project Development](#week-10-final-project-development)
+- [Week 8: Making Things Talk (to each other)](#week-8-making-things-talk-to-each-other)
+- [Week 9: Decolonizing Technology](#week-9-decolonizing-technology)
+- [Week 10: Code as Site](#week-10-code-as-site)
 - [Week 11: Expanded Interface++](#week-11-expanded-interface)
-- [Week 12](#week-12)
+- [Week 12: Speculative Interface](#week-12-speculative-interface)
 - [Week 13](#week-13)
 - [Week 14](#week-14)
 - [Final Performance](#final-performance)
@@ -74,6 +75,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 4: Audio + Visual = ???
 
+**Monday · September 22**
 - Reading #2 Discussion
 - Lecture: From Subcultures to Club Cultures
 - Very brief history of Audiovisuals
@@ -85,38 +87,31 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Reading #4: Schedel, M., & Uroskie, A. V. (2011). "Writing about Audiovisual Culture." Cinema Journal, 50(2), 144-150.
 - Sketch #4: shared patterns in sound and visuals
 
-## Week 5: Collaboration & Networks
+## Fall Break - No Class
 
-**Monday · September 22**
+## Week 5: Networked and Collaborative Livecoding
 
+**? legislative day?**
+- Reading #3 Discussion
+- Networks and Networked performances
 - Sketch #3 share-outs
 - Workshop: Collaborative live coding with [Flok](https://flok.cc/)
-- Reading #3 Discussion
-- Collaborative art practices
-- Network culture and distributed creativity
 
 **Assigned:**
-- Reading #4: ["Collaborative Live Coding"](https://www.are.na/block/36017259)
-- Sketch #4: Collaborative performance piece
 
 ## Week 6: Midterm Preparation
 
-**Monday · October 20**
-
+**Monday · October 13**
 - Sketch #5 share-outs
 - Midterm project planning and development
 - Reading #5 Discussion
-- Midterm project feedback and refinement
 - Technical workshop
 
 **Assigned:**
-- Reading #6: ["Midterm Project Development"](https://www.are.na/block/36017259)
-- Midterm Project: Final preparation
 
 ## Week 7: Midterm Performances
 
-**Monday · October 27**
-
+**Monday · October 20**
 - Midterm performances and feedback
 - Midterm reflection and discussion
 - Introduction to final project concepts
@@ -125,83 +120,55 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Reading #7: ["Final Project Concepts"](https://www.are.na/block/36017259)
 - Sketch #6: Final project exploration
 
-## Week 8: Advanced Techniques
+## Week 8: Making Things Talk (to each other)
+
+**Monday · October 27**
+
+**Assigned:**
+
+## Week 9: Decolonizing Technology
 
 **Monday · November 3**
 
-- Sketch #6 share-outs
-- Advanced Strudel and Hydra techniques
-- Custom functions and libraries
-- Reading #7 Discussion
-- Advanced live coding concepts
-
 **Assigned:**
-- Reading #8: ["Advanced Live Coding"](https://www.are.na/block/36017259)
-- Sketch #7: Advanced technique exploration
 
-## Week 9: Final Project Development
+## Week 10: Code as Site
 
 **Monday · November 10**
 
-- Sketch #7 share-outs
-- Final project concept development
-- Technical planning and prototyping
-- Reading #8 Discussion
-- Final project planning and feedback
-
 **Assigned:**
-- Reading #9: ["Final Project Development"](https://www.are.na/block/36017259)
-- Final Project: Begin development
-
-## Week 10: Final Project Development
-
-**Monday · November 17**
-
-- Final project development and feedback
-- Technical workshop and troubleshooting
-- Reading #9 Discussion
-- Final project refinement
-- Performance preparation
-
-**Assigned:**
-- Reading #10: ["Performance Preparation"](https://www.are.na/block/36017259)
-- Final Project: Continue development
 
 ## Week 11: Expanded Interface++
 
-**Monday · November 24**
-
+**Monday · November 17**
 - Sketch #7 share-outs
-- Workshop: Expanded Interfaces - custom hardware, spatial audio, multichannel videos
+- Workshop: Expanded Interfaces
 - Future directions and final performance development
 - Reading #9 discussion
-- Speculative workshop: Creative coding and generative AI
 
 **Assigned:**
 - Reading #10: Collins, Nick; McLean, Alex; Rohrhuber, Julian & Ward, Adrian. (2022). "Live coding: A User's Manual." MIT Press. [Chapter 8: What Does Live Coding Want?](https://www.are.na/block/36017259)
 - [Final Project]({{ site.path('/final') }}): Begin work on expanded performance
 
-## Week 12
+## Week 12: Speculative Interface
 
-**Monday · December 1**
-
+**Monday · November 24**
+- Speculative workshop: Creative coding and generative AI
 - Final performance pitch presentations
 - Guest Artist (tbd)
 
 **Assigned:**
-- [Final Project]({{ site.path('/final') }}): Continue development based on feedback
+- [Final Project]({{ site.path('/final') }}): Development based on feedback
 
 ## Week 13
 
-**Monday · December 8**
-
+**Monday · December 1**
 - Final performance demo & feedback
 - Technical workshop & rehearsal
 
 ## Week 14
 
-**Monday · December 15**
-
+**Monday · December 8**
 - Technical workshop & rehearsal
 - Final performance preparation
 
