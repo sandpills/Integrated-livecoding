@@ -40,7 +40,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Introduction to Syllabus
 - History and ethos of the global live coding scenes: What can we learn from a creative tech culture that's 20 years old?
 - Workshop: Introduction to [Strudel](https://strudel.cc), a web-based music programming language – syntax and patterns
-- ⊹ [Slides](https://docs.google.com/presentation/d/1Oeey1f4AFzxYzQq4Gb8c_RjatlJOuE3aYivRgA-KJds/edit?usp=sharing)
+⊹ [Slides](https://docs.google.com/presentation/d/1Oeey1f4AFzxYzQq4Gb8c_RjatlJOuE3aYivRgA-KJds/edit?usp=sharing)
 
 **Assigned:**
 - Make a blog and post its link to our course slack channel. You can also use your personal blog if you already have one. See [Documentation Guideline]({{ site.path('/project-documentation') }}) for detailed instruction.
@@ -55,7 +55,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Workshop: Dive deeper into Strudel - rhythms, melodies, composition
 - Reading #1 Discussion
 - Lecture: A brief history of algorithmic composition in electronic music
-- ⊹ [Slides](https://docs.google.com/presentation/d/1ApWletWJaV1516o-Kj4mv7zzI3QuLSTuD4wGq0I3sac/edit?usp=sharing)
+⊹ [Slides](https://docs.google.com/presentation/d/1ApWletWJaV1516o-Kj4mv7zzI3QuLSTuD4wGq0I3sac/edit?usp=sharing)
 
 **Assigned:**
 - Reading #2: Cascone, Kim. (2000). ["The Aesthetics of Failure: Post-Digital Tendencies in Contemporary Computer Music."](https://ccrma.stanford.edu/~adnanm/DAT330/CMJ24_4Cascone.pdf) Computer Music Journal, 24(4)
@@ -69,7 +69,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Lecture: What's in a glitch
 - Sketch #2 share-outs
 - Workshop: Introduction to [Hydra](https://hydra.ojack.xyz/) video synth
-- ⊹ [Slides](https://docs.google.com/presentation/d/1XZ__pM_exP9MSyiOnCvFAPB0DkT4eo8BsqU1OaCEQgA/edit?usp=sharing)
+⊹ [Slides](https://docs.google.com/presentation/d/1XZ__pM_exP9MSyiOnCvFAPB0DkT4eo8BsqU1OaCEQgA/edit?usp=sharing)
 
 **Assigned:**
 - Reading #3: Casey Reas on the History of Generative Art [Part I](https://www.lerandom.art/editorial/reas-history-1) & [Part II](https://www.lerandom.art/editorial/casey-reas-on-the-history-of-generative-art-part-2). Le Random.

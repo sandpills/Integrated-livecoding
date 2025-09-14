@@ -12,8 +12,8 @@ header:
 
 ## Important Links
 
-- [Syllabus](https://docs.google.com/document/d/1as0mChvEE1aiIQ25Vb9vJCI3FbdFj16FWGIggYYNbsg/edit?tab=t.0)
-- [[WIP] Collab Notebook](https://pad.riseup.net/p/ialc-f25-keep)
+- [Class Schedule]({{ site.path('/schedule-fall2025') }})
+- [Collab Notebook](https://pad.riseup.net/p/ialc-f25-keep)
 - [Homework Submission Form](https://forms.gle/PLn54uDV8ZCU9uCB8)
 - [Peer Tutorials]({{ site.path('/tutorials') }})
 
