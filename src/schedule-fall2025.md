@@ -109,16 +109,10 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 **Assigned:**
 
-## Week 7: Midterm Performances
+## Week 7: Midterm Performance
 
-**Monday · October 20**
-- Midterm performances and feedback
-- Midterm reflection and discussion
-- Introduction to final project concepts
+**TBD**
 
-**Assigned:**
-- Reading #7: ["Final Project Concepts"](https://www.are.na/block/36017259)
-- Sketch #6: Final project exploration
 
 ## Week 8: Making Things Talk (to each other)
 
