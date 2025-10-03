@@ -70,7 +70,6 @@ In general, each week we'll have a workshop class on Monday, and a discussion cl
 ### Monday · February 24
 - Sketch #3 share-outs
 - Workshop: Collaborative live coding with [Flok](https://flok.cc/)
-- Networked performance concepts
 
 ### Wednesday · February 26
 - Reading #3 Discussion
@@ -78,8 +77,6 @@ In general, each week we'll have a workshop class on Monday, and a discussion cl
 - Network culture and distributed creativity
 
 **Assigned:**
-- Reading #4: ["Collaborative Live Coding"](https://www.are.na/block/36017259)
-- Sketch #4: Collaborative performance piece
 
 ## Week 5: Performance & Improvisation
 
@@ -94,8 +91,6 @@ In general, each week we'll have a workshop class on Monday, and a discussion cl
 - Improvisation in digital art
 
 **Assigned:**
-- Reading #5: ["Performance and Improvisation"](https://www.are.na/block/36017259)
-- Sketch #5: Performance piece development
 
 ## Week 6: Midterm Preparation
 

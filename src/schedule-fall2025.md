@@ -76,11 +76,11 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 ## Week 4: Audio + Visual = ???
 
 **Monday · September 22**
-- Reading #2 Discussion
-- Lecture: From Subcultures to Club Cultures
-- Very brief history of Audiovisuals
-- Sketch #2 share-outs
-- Just enough music theory
+- Reading #3 Discussion
+- Lecture: Very brief history of Audiovisuals
+- From Subcultures to Club Cultures
+- Sketch #3 share-outs
+- (Just enough music theory)
 - Workshop: Hydra in Strudel!
 
 **Assigned:**
@@ -91,44 +91,63 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 5: Networked and Collaborative Livecoding
 
-**? legislative day?**
-- Reading #3 Discussion
+**Sunday · October 12 **
+- Reading #4 Discussion
+- Midterm Announcement
 - Networks and Networked performances
-- Sketch #3 share-outs
-- Workshop: Collaborative live coding with [Flok](https://flok.cc/)
+- Sketch #4 share-outs
+- In-class Midterm project planning
 
-**Assigned:**
+**Assigned**
+- Reading #5: Collins, Nick; McLean, Alex; Rohrhuber, Julian & Ward, Adrian. (2022). "Live coding: A User's Manual." MIT Press. Chapter 5: Live Coding's Liveness(es)
+- Optional Reading: SENEIDA. (2024) [Overview of Sonic Cyberfeminism in Electronic Music: Ana Roman](https://medium.com/@senaidaxoxo/overview-of-sonic-cyberfeminism-in-electronic-music-ana-roman-242cd3d32946)
+- Reading reflection #5 is due before week 8, alongside midterm documentation
 
 ## Week 6: Midterm Preparation
 
 **Monday · October 13**
-- Sketch #5 share-outs
-- Midterm project planning and development
-- Reading #5 Discussion
-- Technical workshop
+- Workshop: Collaborative live coding with [Flok](https://flok.cc/)
+- Midterm development
 
 **Assigned:**
+- Midterm planning form + performance score (group)
 
 ## Week 7: Midterm Performance
 
 **TBD**
 
+**Assigned:**
+- Midterm performance documentation
+- Reading reflection #5 is due together
 
 ## Week 8: Making Things Talk (to each other)
 
 **Monday · October 27**
+- Midterm recap :)
+- Intro to protocols for creative developers
+- MIDI & Web MIDI
+- An overview of the live coding tool belt
 
 **Assigned:**
+- Tools research + Beginner-friendly tutorial
+- Reading #6: Wendy Hui Kyong Chun, Programmed Visions: Software and Memories, Chapter 1 [On Sourcery and Source Codes](https://direct.mit.edu/books/oa-monograph/3341/chapter/109041/On-Sourcery-and-Source-Codes) (p. 19-34, before “Bureaucracies within the Machine”)
 
 ## Week 9: Decolonizing Technology
 
 **Monday · November 3**
+- Decolonization: How dominant technology paradigms reinforce colonial structures
+- Artists and community technology projects
+- Tutorial presentations
 
 **Assigned:**
+- Reading #7: [OSACC 2024 Report](https://medium.com/@chris.d.coleman/open-source-arts-contributors-conference-2024-0aae7b434610) - wander through the various links and topics mentioned in this report! 
 
 ## Week 10: Code as Site
 
 **Monday · November 10**
+- Live Coding and Site Specificity
+- Code as Site: Desktop performances
+- Sonic and visual walking
 
 **Assigned:**
 
