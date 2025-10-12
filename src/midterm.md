@@ -10,9 +10,7 @@ header:
     Office Hours: By <a href="https://calendar.app.google/ZLZrUoP3d68cVgNh8" target="_blank">appointment</a><br>
 ---
 
-[← Back to main](/)
-
-[Documentation Guideline](/project-documentation)
+[← Back to main]({{ site.path('/') }})
 
 ## Description
 
@@ -21,6 +19,8 @@ The midterm performance will take place at Cedar Kitchen, Monday October 20.
 For your midterm, you will be participating in a collective jam session in 3 different groups, and each group will develop a distinct 10-minute segment of audiovisual performance using Strudel and Hydra.
 
 Taking inspiration from the Surrealist game of exquisite corpse, each group will also inherit and transform elements from the previous group's code, creating an evolving, continuous audiovisual experience in one Flok session.
+
+[Documentation Guideline]({{ site.path('//project-documentation') }})
 
 ## Process
 
