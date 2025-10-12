@@ -91,9 +91,9 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 
 ## Week 5: Networked and Collaborative Livecoding
 
-**Sunday · October 12 **
+**Sunday · October 12**
 - Reading #4 Discussion
-- Midterm Announcement
+- [Midterm Performance]({{ site.path('/midterm') }}) Announcement
 - Networks and Networked performances
 - Sketch #4 share-outs
 - In-class Midterm project planning

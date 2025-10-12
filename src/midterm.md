@@ -16,9 +16,9 @@ header:
 
 ## Description
 
-The midterm performance will take place [TBD]
+The midterm performance will take place at Cedar Kitchen, Monday October 20.
 
-For your midterm, you will be participating in a collective jam session in 5 different groups. Each group will have 3-4 members - together, you will develop a distinct 10-minute segment of audiovisual performance using Strudel and Hydra.
+For your midterm, you will be participating in a collective jam session in 3 different groups, and each group will develop a distinct 10-minute segment of audiovisual performance using Strudel and Hydra.
 
 Taking inspiration from the Surrealist game of exquisite corpse, each group will also inherit and transform elements from the previous group's code, creating an evolving, continuous audiovisual experience in one Flok session.
 
@@ -42,4 +42,7 @@ The performance emphasizes both preparation and live improvisation - you can pre
 
 ## Timeline
 
-[TBD]
+- Sun 10/12 - Midterm Announced! + In-class planning
+- Mon 10/13 - In-class workshop 
+  - End of class: submit midterm planning form (each group only needs to submit once) 
+- Mon 10/20 - Performance!
