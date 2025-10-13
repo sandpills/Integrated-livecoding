@@ -24,9 +24,9 @@ Taking inspiration from the Surrealist game of exquisite corpse, each group will
 
 ## Process
 
-While preparing, create a core audiovisual identity for your segment using Hydra and Strudel. Discuss with your adjacent groups (the groups that perform before and after you) to coordinate "handoffs" - as one section ends, inherit and transform at least one visual and one sonic element from the previous group during this transition. Signal and help your next group with transition afterwards.
+While preparing, create a core audiovisual identity for your segment using Hydra and Strudel, alongside developing a performance score as your building block. Discuss with your adjacent groups (the groups that perform before and after you) to coordinate "handoffs" - as one section ends, inherit and transform at least one visual and one sonic element from the previous group during this transition. Signal and help your next group with transition afterwards.
 
-The performance emphasizes both preparation and live improvisation - you can prepare as much, or as little as you wish, just know that the magic always happens in real time.
+This performance emphasizes both preparation and live improvisation - you can prepare as much, or as little as you wish, just know that the magic always happens in real time.
 
 ## Requirements
 
@@ -34,7 +34,7 @@ The performance emphasizes both preparation and live improvisation - you can pre
 - Use both Hydra and Strudel
 - Include at least one audio-reactive visual element
 - Transform elements from the previous group
-- Document your planning process and include comments in your code
+- Document your planning process
 
 ### Individual Requirements
 - Must contribute to both planning and performance
@@ -42,7 +42,9 @@ The performance emphasizes both preparation and live improvisation - you can pre
 
 ## Timeline
 
-- Sun 10/12 - Midterm Announced! + In-class planning
+- Sun 10/12 - Midterm Announced!
 - Mon 10/13 - In-class workshop 
-  - End of class: submit midterm planning form (each group only needs to submit once) 
-- Mon 10/20 - Performance!
+  - End of day: submit midterm planning form (each group only needs to submit once)
+- Sun 10/19 - End of day: submit performance score (each group only needs to submit once)
+- Mon 10/20 - Performance day!
+- Sun 10/26 - Performance [documentation]({{ site.path('//project-documentation') }}) due
