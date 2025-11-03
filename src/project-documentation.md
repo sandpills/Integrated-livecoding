@@ -10,7 +10,7 @@ header:
     Office Hours: By <a href="https://calendar.app.google/ZLZrUoP3d68cVgNh8" target="_blank">appointment</a><br>
 ---
 
-[← Back to main](/)
+[← Back to main]({{ site.path('/') }})
 
 ## Hosting Your Documentation
 
