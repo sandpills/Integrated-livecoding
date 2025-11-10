@@ -23,8 +23,10 @@ header:
 
 ## Esturary
 - [Mini Esturary Introduction by Daniel :D](https://www.notion.so/Mini-Tutorial-Estuary-29fdc60c6f868075bb71e50c3497f59f)
+- [Intro to Esturary by Ting](https://cuddly-playground-018.notion.site/Intro-to-ESTUARY-29fca18c051b8078bbeeeb0ace04ba52)
 
 ## MAX/MSP/Jitter
+- [Intro to Max by Maggie](https://docs.google.com/presentation/d/1KS7inaR7j8t6lsYy7dI2lSX9ANLJ7cFQhmmsVlMKIHY/edit?slide=id.p#slide=id.p)
 
 ## TouchDesigner
 - [TouchDesigner Tutorial by Rachel](https://wp.nyu.edu/racheld/2025/11/02/touchdesigner-tutorial/)

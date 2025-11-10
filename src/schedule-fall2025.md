@@ -140,6 +140,7 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Tutorial presentations
 
 **Assigned:**
+- Sketch: Livecoding for magical communication
 - Reading #7: [OSACC 2024 Report](https://medium.com/@chris.d.coleman/open-source-arts-contributors-conference-2024-0aae7b434610) - wander through the various links and topics mentioned in this report! 
 
 ## Week 10: Code as Site
@@ -150,6 +151,8 @@ Classes meet **Mondays, 5:15 – 8:00pm**. You're expected to submit your assign
 - Sonic and visual walking
 
 **Assigned:**
+- Sketch: A site of your choice
+- Reading #8: Earl, Benjamin (2024). [Coding in Situ](https://naive-yearly.are.na/2024/benjamin-earl)
 
 ## Week 11: Expanded Interface++
 
